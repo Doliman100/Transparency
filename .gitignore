@@ -1,0 +1,9 @@
+bin/*.iobj
+bin/*.ipdb
+bin/*.pdb
+images/
+msvc/.vs/
+msvc/*.user
+msvc/Debug/
+msvc/Release/
+readme.txt
